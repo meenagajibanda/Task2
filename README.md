@@ -1,2 +1,2 @@
 # Task2
-It is program for student grading
+It is program of simple calculator
